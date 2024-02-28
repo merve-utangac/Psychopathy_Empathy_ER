@@ -1,6 +1,8 @@
 # Psychopathy_Empathy_ER
 
-Description of variables for Analysis.R Data
+The "final_data" comprises all primary variables necessary for the main analysis in the "Analysis.R" script.
+
+Description of variables in the "final_data": 
 
 ID: Numeric value assigned to each participant
 Gender: Numeric value indicating participants’ gender. 0 == male; 1 == female
