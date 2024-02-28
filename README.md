@@ -4,7 +4,7 @@ The "final_data" comprises all primary variables necessary for the main analysis
 
 The script "Combine_Tidy" combines various versions of each scale by tidying according to the study's criteria. It demonstrates the process through which "final_data" is obtained after these procedures.
 
-Description of variables in the "final_data": 
+Description of the variables in the "final_data": 
 
 ID: Numeric value assigned to each participant
 Gender: Numeric value indicating participants’ gender. 0 == male; 1 == female
